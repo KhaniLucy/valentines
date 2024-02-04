@@ -7,7 +7,7 @@ function showMessage(reponse) {
 
         noButton.style.position = "absolute";
 
-        document.getElementsByClassName("image")[0].src = "images/IMG_2055.JPG"
+        document.getElementsByClassName("image")[0].src = "images/ heartbreak.jpeg";
 
         const randomX = Math.max(0, Math.floor(Math.random() * maxWidth));
         const randomY = Math.max(0, Math.floor(Math.random() * maxHeight));
@@ -16,7 +16,7 @@ function showMessage(reponse) {
         noButton.style.top = randomY + "px";
 
         document.getElementById("question").textContent =
-        "Kanti wena why unomuntu? lol🥹";
+        "Don't break my heart";
         document.getElementById("name").style.display = "none";
     }
 
@@ -28,7 +28,7 @@ function showMessage(reponse) {
         yesMessage.textContent = "Forever Wena my Dali😘, see you on the 14th babygirl";
         yesMessage.style.display = "block";
         yesMessage.style.fontStyle = "normal";
-        document.getElementsByClassName("image")[0].src = "images/IMG_2056.JPG";
+        document.getElementsByClassName("image")[0].src = "images/pexels-photo-1805416.jpeg";
 
         document.getElementById("yesButton").remove();
     }

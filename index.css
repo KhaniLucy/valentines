@@ -1,12 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #ffdde1;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   height: 100vh;
-  margin: 0;
-  background-image: url('images/IMG_2061.JPG');
+  margin:  0;
+  background-image: url('images/pexels-photo-1122639.webp');
+  background-repeat:  repeat;
   font-size: 35px;
   color: #FFC5C9;
 }
