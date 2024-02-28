@@ -12,3 +12,5 @@ Is added for interaction with the user. This website is built by a gentleman tha
 
 # Demo 
 This is a demonstration of how the app works. This website is built with simplicity yet with style. The No button moves in liner motion and this illustrates that the man is not talking NO for an answer. 
+
+[Screen recording 2024-02-28 14.06.48.webm](https://github.com/KhaniLucy/valentines/assets/132388392/03652766-9f1b-45e5-a381-e9763254da2c)
